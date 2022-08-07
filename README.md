@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋,<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=%E9%94%99%E8%AF%AF%E7%9A%84&vCenter=%E9%94%99%E8%AF%AF%E7%9A%84&lines=We+are+Ghost+Wolf+Lab" alt="Typing SVG" /></a></h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=38C2FF&center=%E9%94%99%E8%AF%AF%E7%9A%84&vCenter=%E9%94%99%E8%AF%AF%E7%9A%84&lines=Hi+%F0%9F%91%8B%2CWe+are+Ghost+Wolf+Lab" alt="Typing SVG" /></a>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghostwolflab&label=Profile%20views&color=0e75b6&style=flat" alt="ghostwolflab" /> </p>
