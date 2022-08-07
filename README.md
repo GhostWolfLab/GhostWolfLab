@@ -12,3 +12,5 @@
 - 📫 How to reach me: snowwolfmysql@gmail.com</br>
 
 - ⚡ Fun fact: Knowledge can also be learned by studying useful tools</br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GhostWolfLab&show_icons=true&theme=github_dark)
